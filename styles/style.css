@@ -77,10 +77,8 @@
 
 .cards{
     display: flex;
-    gap: 40px;
-    margin-left: 120px;
-    margin-right: 120px;
-    max-width: 1600px;
+    gap: 45px;
+    max-width: 1500px;
 }
 
 .card{
@@ -169,5 +167,3 @@
 footer{
     background-color: #001931;
 }
-
-/* just final touch remains */
